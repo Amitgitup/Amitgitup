@@ -9,7 +9,6 @@
 
 - 🎓 **B.Tech student at National Institute of Technology Jamshedpur (2023–2027)**
 - 🤖 **Passionate about Machine Learning, Deep Learning, and Generative AI**
-- 🚀 **Creator of Medical RAG Chatbot, Phishing Detection System & more**
 - 💡 **Specialized in NLP, Computer Vision, and Retrieval Augmented Generation (RAG)**
 - 🌱 **Learning new AI frameworks, MLOps, and cloud deployment**
 - 📬 **Let's connect:** [amitksingh3022@gmail.com](mailto:amitksingh3022@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amit-singh-58101928a/)
